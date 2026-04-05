@@ -1,0 +1,6 @@
+{
+  "appId": "com.banddtrade.app",
+  "appName": "B and D Trade",
+  "webDir": "frontend/dist",
+  "bundledWebRuntime": false
+}
